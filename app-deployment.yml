@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: springboot-crud
-        image: your-dockerhub-username/springboot-crud-k8s:1.0
+        image: devopscode44/springboot-crud-k8s:1.0
         ports:
         - containerPort: 8080
         env:
