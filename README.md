@@ -1,3 +1,7 @@
+# Kubernetes_Project
+[📄 Deploying Spring Boot application on Kubernetes handson](./.docs/springboot-k8s.pdf)
+
+
 **Deploying Spring Boot Application on Kubernetes**
 **Overview**
 This project demonstrates deploying a Spring Boot application on a Kubernetes cluster using Docker, Minikube, and Kubernetes Services. It ensures smooth deployment, scalability, and management in a cloud-native environment.
@@ -18,7 +22,5 @@ Services are exposed, allowing the application to be accessed externally.
 **Monitoring & Management**
 The Kubernetes Dashboard is used for tracking application performance and scaling.
 
-# Kubernetes_Project
-[📄 Deploying Spring Boot application on Kubernetes handson](./.docs/springboot-k8s.pdf)
 
 
