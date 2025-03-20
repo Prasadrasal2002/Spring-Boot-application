@@ -1,3 +1,3 @@
-# springboot-crud-k8s
-Run &amp; Deploy Spring Boot CRUD Application With MySQL on K8S
-# SpringBootOnK8S_PS
+# Kubernetes_Project
+[📄 Deploying Spring Boot application on Kubernetes handson ](.docs/Springboot-k8s.pdf)
+
