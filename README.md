@@ -6,7 +6,8 @@
 **Overview :**
 This project demonstrates deploying a Spring Boot application on a Kubernetes cluster using Docker, Minikube, and Kubernetes Services. It ensures smooth deployment, scalability, and management in a cloud-native environment.
 
-**Project Workflow**
+**Project Workflow -:**
+
 **Set Up Infrastructure :**
 Configure the required environment, including a virtual machine (e.g., EC2) and necessary dependencies like Docker and Kubernetes tools.
 
